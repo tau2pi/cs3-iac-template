@@ -1,0 +1,15 @@
+.retry
+.sops.yml
+*secret*
+*password*
+*credentials*
+
+*.pem
+id_rsa
+id_ed25519
+*.swp
+*.swo
+*.vscode
+.venv
+.pyo
+.log
